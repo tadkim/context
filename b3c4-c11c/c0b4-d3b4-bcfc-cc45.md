@@ -17,7 +17,6 @@
 
 #### 미분류
 
-- 일상기술연구소, 제현주, 금정연 공저
 - 지적재산권법
 - 질적 연구의 이해와 접근
 - 현대 기술의 본질과 몸의 윤리
@@ -45,6 +44,7 @@
 - 인간을 읽어내는 과학(김대식)
 - [데이터과학 입문](http://ebook.dongguk.edu/FxLibrary/product/view/?num=Y38149971&category=&category_type=book)
 - [**데이터분석 사례연구(장영재,이태림,허명회)**](http://ebook.dongguk.edu/FxLibrary/product/view/?num=Y33572731&category=&category_type=book)
+- [**엑셀 데이터분석**](http://ebook.dongguk.edu/FxLibrary/product/view/?num=Y38149999&category=&category_type=book)
 
 
 
@@ -65,13 +65,14 @@
 
 #### 미분류
 
-- 자살과 안락사, 황적준
+- [**우아한 관찰주의자**](http://ebook.dongguk.edu/FxLibrary/product/view/?num=Y42709500&category=&category_type=book)
+- [자살과 안락사](http://ebook.dongguk.edu/FxLibrary/product/view/?num=Y33222894&category=&category_type=book)
+- [**팩트체크**](http://ebook.dongguk.edu/FxLibrary/product/view/?num=Y23514766&category=&category_type=book)
 - 저널리즘의 이해, 이은택 이창호 저
 - 제주도 방언의 어휘연구
 - 지도위의 인문학 
 - [서툰감정](http://ebook.dongguk.edu/FxLibrary/product/view/?num=Y43973942&category=&category_type=book)
 - 커뮤니케이션과 인간
-- 팩트체크 (경제상식편, 정치/사회편)
 - 하기 싫은 일을 하는 힘
 - 살면서 한번은 묻게 되는 질문들
 - 18세기 기호학계의 학설 논쟁
@@ -104,6 +105,9 @@
 - 한국어와 정보 
 - Chomsky의 언어과학
 - 회사의 언어
+- [언어 표현 전략](http://ebook.dongguk.edu/FxLibrary/product/view/?num=Y34720165&category=&category_type=book)
+- [언어의 이해](http://ebook.dongguk.edu/FxLibrary/product/view/?num=Y33572776&category=&category_type=book)
+- [연결주의 관점에서 본 어휘부와 단어형성](http://ebook.dongguk.edu/FxLibrary/product/view/?num=Y34709910&category=&category_type=book)
 
 
 
@@ -144,6 +148,7 @@
 
 
 #### 페미니즘
+
 - [**성,사랑,사회**](http://ebook.dongguk.edu/FxLibrary/product/view/?num=Y33572761&category=&category_type=book)
 - 유교와 페미니즘의 만남에 대한 소견
 - 유교의 새로운 여성 이미지는 가능한가
@@ -159,6 +164,9 @@
 - [남성의 위기와 탈전통 시대의 남성성](http://ebook.dongguk.edu/FxLibrary/product/view/?num=Y33222758&category=&category_type=book)
 - [문제가 있습니다](http://ebook.dongguk.edu/FxLibrary/product/view/?num=Y36428054&category=&category_type=book)
 - [성차별의 제도와 역사](http://ebook.dongguk.edu/FxLibrary/product/view/?num=Y33222765&category=&category_type=book)
+- [**여성 몸의 유교적 구성 - 몸의 주체화를 위하여**](http://ebook.dongguk.edu/FxLibrary/product/view/?num=Y33222832&category=&category_type=book)
+- [여성의 삶과 문화](http://ebook.dongguk.edu/FxLibrary/product/view/?num=Y38149934&category=&category_type=book)
+- [유교와 페미니즘의 만남에 대한 소견](http://ebook.dongguk.edu/FxLibrary/product/view/?num=Y33223045&category=&category_type=book)
 
 #### 종교
 
@@ -174,8 +182,10 @@
 
 #### 자기계발
 
+- [**일상 기술 연구소**](http://ebook.dongguk.edu/FxLibrary/product/view/?num=Y41147343&category=&category_type=book)
 - 훌륭한 관리자의 평범한 습관들
 - [모든 관계는 말투에서 시작된다](http://ebook.dongguk.edu/FxLibrary/product/view/?num=Y43332330&category=&category_type=book)
+- [영어책 한권 외워봤니?](http://ebook.dongguk.edu/FxLibrary/product/view/?num=Y35256173&category=&category_type=book)
 
 #### 스테디 셀러
 
