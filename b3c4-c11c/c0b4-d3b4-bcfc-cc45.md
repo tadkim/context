@@ -21,7 +21,13 @@
 - 지적재산권법
 - 질적 연구의 이해와 접근
 - 현대 기술의 본질과 몸의 윤리
+- [**블록체인 혁명](http://ebook.dongguk.edu/FxLibrary/product/view/?num=Y35736821&category=&category_type=book)
 
+#### 인지학 
+
+- [기억은 미래를 향한다](http://ebook.dongguk.edu/FxLibrary/product/view/?num=Y42814637&category=&category_type=book)
+- [뇌의 100가지 새로운 지식](http://ebook.dongguk.edu/FxLibrary/product/view/?num=Y44202687&category=&category_type=book)
+- [**메를로-퐁티의 지각현상학 읽기**](http://ebook.dongguk.edu/FxLibrary/product/view/?num=Y34896791&category=&category_type=book)
 
 #### 통계
 
@@ -32,7 +38,8 @@
 #### 데이터과학
 
 - 인간을 읽어내는 과학(김대식)
-- 데이터과학 입문
+- [데이터과학 입문](http://ebook.dongguk.edu/FxLibrary/product/view/?num=Y38149971&category=&category_type=book)
+- [**데이터분석 사례연구(장영재,이태림,허명회)**](http://ebook.dongguk.edu/FxLibrary/product/view/?num=Y33572731&category=&category_type=book)
 
 
 
@@ -57,8 +64,24 @@
 - 하기 싫은 일을 하는 힘
 - 살면서 한번은 묻게 되는 질문들
 - 18세기 기호학계의 학설 논쟁
+- [독일의 지역감정과 지역주의](http://ebook.dongguk.edu/FxLibrary/product/view/?num=Y33223031&category=&category_type=book)
+- [동양과 서양의 만남, 그리고 상호 이해를 위한 대화](http://ebook.dongguk.edu/FxLibrary/product/view/?num=Y33222787&category=&category_type=book)
+- [명견만리 - 새로운사회편](http://ebook.dongguk.edu/FxLibrary/product/view/?num=Y42456601&category=&category_type=book)
+- [명견만리 - 미래의기회편](http://ebook.dongguk.edu/FxLibrary/product/view/?num=Y32003433&category=&category_type=book)
+- [몸, 자본주의 그리고 상품화](http://ebook.dongguk.edu/FxLibrary/product/view/?num=Y33222998&category=&category_type=book)
+- [몸의 문화사회학적 비교 - 유럽과 아시아](http://ebook.dongguk.edu/FxLibrary/product/view/?num=Y33222804&category=&category_type=book)
+- [몸의 상품화와 소비대중문화](http://ebook.dongguk.edu/FxLibrary/product/view/?num=Y33222829&category=&category_type=book)
+- [**무엇이 지식인가? - 서양 실용지식의 변천사**](http://ebook.dongguk.edu/FxLibrary/product/view/?num=Y33222760&category=&category_type=book)
 
 
+
+
+
+
+### 미디어
+
+- [미디어 심리학의 이해](http://ebook.dongguk.edu/FxLibrary/product/view/?num=Y33572740&category=&category_type=book)
+- [**미디어 교육**](http://ebook.dongguk.edu/FxLibrary/product/view/?num=Y38149871&category=&category_type=book)
 
 
 #### 언어학
@@ -72,9 +95,11 @@
 
 
 #### 글쓰기
+
 - [**과학 글쓰기 전략**](http://ebook.dongguk.edu/FxLibrary/product/view/?num=Y34719974&category=&category_type=book)
 - 학술 원고 작성 메뉴얼
 - **출처의 윤리**
+- [다면자료와 비언어적 소통](http://ebook.dongguk.edu/FxLibrary/product/view/?num=Y34720058&category=&category_type=book)
 
 
 
@@ -83,6 +108,7 @@
 
 - 지금 다시, 헌법(차병직 외)
 - [근로보호법, 김엘림/윤애림 저](http://ebook.dongguk.edu/FxLibrary/product/view/?num=Y38149907&category=&category_type=book)
+- [기본권의 기초이론](http://ebook.dongguk.edu/FxLibrary/product/view/?num=Y33572970&category=&category_type=book)
 
 
 
@@ -106,6 +132,8 @@
 - 이것이 남자의 세상이다
 - 21세기 초 한국 영화가 재현하는 남성적 무의식
 - [국가와 여성정책(이혜숙, 2017)](http://ebook.dongguk.edu/FxLibrary/product/view/?num=Y35081316&category=&category_type=book)
+- [남성의 위기와 탈전통 시대의 남성성](http://ebook.dongguk.edu/FxLibrary/product/view/?num=Y33222758&category=&category_type=book)
+- [문제가 있습니다](http://ebook.dongguk.edu/FxLibrary/product/view/?num=Y36428054&category=&category_type=book)
 
 #### 종교
 
@@ -119,11 +147,14 @@
 - 21세기를 위한 윤리의 모색 
 
 #### 자기계발
+
 - 훌륭한 관리자의 평범한 습관들
+- [모든 관계는 말투에서 시작된다](http://ebook.dongguk.edu/FxLibrary/product/view/?num=Y43332330&category=&category_type=book)
 
 #### 스테디 셀러
 
 - 퇴사학교
+- [나는 까질할게 살기로했다](http://ebook.dongguk.edu/FxLibrary/product/view/?num=Y34537510&category=&category_type=book)
 
 #### 철학
 
