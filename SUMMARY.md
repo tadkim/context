@@ -1,7 +1,6 @@
 # Summary
 
 * [Introduction](README.md)
-* [First Chapter](chapter1.md)
 * [Expression](d45c-d604.md)
   * [Copywriting](d45c-d604/ce74-d53c-b77c-c774-d305.md)
 * [Book](b3c4-c11c.md)
